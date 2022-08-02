@@ -1,5 +1,5 @@
 # PacMan
-Programozás Alapjai 3. Házi feladat
+Programozás Alapjai 3. Házi Feladat
 
 Kedvenc projektem eddig.
 
